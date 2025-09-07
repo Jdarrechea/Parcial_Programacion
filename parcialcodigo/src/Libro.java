@@ -66,6 +66,7 @@ public class Libro {
         return false;
     }
 
+    // Hecho
     @Override
     public String toString() {
         return "Libro{" +
