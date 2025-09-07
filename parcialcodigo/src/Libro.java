@@ -66,7 +66,7 @@ public class Libro {
         return false;
     }
 
-    // Hecho
+    // Hechoooo
     @Override
     public String toString() {
         return "Libro{" +
